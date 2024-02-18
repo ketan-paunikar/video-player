@@ -2,7 +2,7 @@
 
 -The application is hosted on Vercel.
 
--Access the application through the provided link in the "About" section.
+-Access the responsive application through the provided link in the "About" section.
 
 *Navigation:
 
