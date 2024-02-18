@@ -17,3 +17,7 @@ Stopping the Application:
 
 Press Ctrl + C in the terminal to stop the application.
 Feel free to adjust these instructions to match your specific application setup and requirements.
+
+Lighthouse score / performance report
+
+![image](https://github.com/ketan-paunikar/video-player/assets/91520176/551cfce4-27f7-4bb5-97e0-5285448d1636)
