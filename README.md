@@ -1,16 +1,21 @@
-Deployment:
+*Deployment:
 
-The application is hosted on Vercel.
-Access the application through the provided link in the "About" section.
-Navigation:
+-The application is hosted on Vercel.
 
-Upon accessing the application, navigate to the designated section for video playback.
-Initiating Playback:
+-Access the application through the provided link in the "About" section.
 
-Click on the title of any video listed in the queue to commence playback.
-Interaction:
+*Navigation:
 
-Utilize the interface controls to manage playback options and navigate through the content.
+-Upon accessing the application, navigate to the designated section for video playback.
+
+*Initiating Playback:
+
+-Click on the title of any video listed in the queue to commence playback.
+
+*Interaction:
+
+-Utilize the interface controls to manage playback options and navigate through the content.
+
 
 Prerequisites:
 
