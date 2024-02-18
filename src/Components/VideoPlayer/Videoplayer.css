@@ -1,0 +1,44 @@
+.queue {
+    padding: 20px;
+    background-color: #8BC6EC;
+    height: 75px;
+}
+
+.video_tag {
+    width: 100%;
+    height: 100%;
+}
+
+.video_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.player_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.playlist_div {
+    width: 100%;
+}
+
+@media only screen and (min-width: 992px) {
+    .player_content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .player_content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+    }
+}
